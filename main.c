@@ -3,7 +3,8 @@
 
 int main(void) 
 {
-  char *name= readline("Enter Your name");
-  printf("Hello %s!\n", name);
+  char *d;
+  scanf("%s",d);
+  printf("Hello %s!\n", d);
   return 0;
 }
