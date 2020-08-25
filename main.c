@@ -3,8 +3,9 @@
 
 int main(void) 
 {
-  char *d;
-  scanf("%s",d);
-  printf("Hello %s!\n", d);
+  char *name;
+  printf("enter your name:");
+  scanf("%s",name);
+  printf("Hello %s!\n", name);
   return 0;
 }
