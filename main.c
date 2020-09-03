@@ -1,3 +1,7 @@
+//author Zihan Xia
+//collaborator: 
+//collaborator:
+//Because my recitation is in tomorrow morning so I DO NOT HAVE collaborator WHEN i upload these code.
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
