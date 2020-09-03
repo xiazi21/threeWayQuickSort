@@ -7,7 +7,7 @@
 #include <stdlib.h>
 int main(void) 
 {
-  double f;
+ double f;
  char *temp= readline("Enter temperature in celsius: ");
  double c = atof(temp);
  f=(1.8*c)+32;
